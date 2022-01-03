@@ -1,0 +1,29 @@
+*{
+      margin: 0;
+      padding: 0;
+}
+body{
+      background-color: dodgerblue;
+}
+h1{
+     background-color: royalblue;
+      color: #ffffff;
+      text-align: center;
+      border: 2px;
+      text-transform: uppercase;
+      font-size: 50px;
+      font-weight: 900;
+     
+}
+h2{
+      color: fuchsia;
+      font-size: 25px;
+      margin-top: 30px;
+      text-align: center;
+}
+p{
+      color: fuchsia;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: justify;
+}
